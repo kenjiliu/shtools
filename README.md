@@ -1,7 +1,8 @@
 # shtools
 
-download spotlight bing wallpaper via crontab
+download spotlight or bing wallpaper via crontab
 
+ref.
 https://peapix.com/api
 
 `
